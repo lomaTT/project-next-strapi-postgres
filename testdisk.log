@@ -54,3 +54,4 @@ Partition table type (auto): None
 Media is opened in read-only.
 
 TestDisk exited normally.
+SIGHUP detected! TestDisk has been killed.
